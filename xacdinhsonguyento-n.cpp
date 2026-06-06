@@ -17,7 +17,7 @@ int main() {
     if (nguyento == true) {
         cout << "n là số nguyên tố";
     } else {
-        cout << "n không phải là số nguyên tố";
+        cout << "n không phải là số nguyên tố đâu";
     }
     return 0;
 }
