@@ -7,7 +7,7 @@ int main() {
    if (n % 2 == 0) {
        cout << "n la so chan";
    } else {
-       cout << "n la so le";
+       cout << "n la so lefffff";
    }
    
     return 0;
