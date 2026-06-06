@@ -15,7 +15,7 @@ int main() {
             nguyento = false; // số nguyên tố chỉ chia hết cho 1 và chính nó
         }
     if (nguyento == true) {
-        cout << "n là số nguyên tố";
+        cout << "n là số nguyên tố cần tìm";
     } else {
         cout << "n không phải là số nguyên tố";
     }
